@@ -1,0 +1,15 @@
+*.iml
+.gradle
+.idea/
+caches/
+daemon/
+kotlin-profile/
+jdks/
+native/
+.DS_Store
+.externalNativeBuild
+.cxx
+.tmp
+build
+captures
+local.properties
